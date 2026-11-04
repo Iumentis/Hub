@@ -4,3 +4,4 @@ local hub = loadstring(game:HttpGet("https://raw.githubusercontent.com/Iumentis/
 
 Supported Games:
 🧩 Word Connect; Last Updated - 04/11/26 13:00
+sample
